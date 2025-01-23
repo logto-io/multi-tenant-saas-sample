@@ -1,6 +1,6 @@
 # Multi-tenant SaaS Sample - Frontend Application
 
-This is a demo frontend application showcasing how to build a SaaS application with multi-tenant support using [Logto](https://logto.io). It demonstrates organization management, user authentication, and document management features provided by Logto.
+This is the frontend application code that accompanies the article on the [multi-tenant SaaS demo](https://blog.logto.io/build-multi-tenant-saas-application).
 
 ## Quick Start
 

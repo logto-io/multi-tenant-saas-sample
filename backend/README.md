@@ -1,6 +1,6 @@
-# Multi-tenant SaaS Sample - Backend Service
+# Multi-tenant SaaS Sample Application - Backend
 
-This is a demo backend service showcasing how to build a SaaS application with multi-tenant support using [Logto](https://logto.io). It demonstrates organization management, user authentication, and Logto management api integration features provided by Logto.
+This is the backend service code that accompanies the article on the [multi-tenant SaaS demo](https://blog.logto.io/build-multi-tenant-saas-application).
 
 ## Quick Start
 

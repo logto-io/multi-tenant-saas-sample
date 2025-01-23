@@ -1,12 +1,24 @@
 # Multi-tenant SaaS Sample Application
 
-This is a comprehensive demo application showcasing how to build a SaaS application with multi-tenant support using [Logto](https://logto.io). The project consists of a frontend application and a backend service that demonstrate organization management, user authentication, document management, and Logto management API integration features.
+This is the companion code for the blog post [Build a multi-tenant SaaS application: A complete guide from design to implementation](https://blog.logto.io/build-multi-tenant-saas-application).
+
+This demo application showcases how to build a SaaS application with multi-tenant support using [Logto](https://logto.io).
+
+The project consists of a frontend application and a backend service that demonstrate organization management, user authentication, document management, and Logto management API integration features.
+
+## About This Project
+
+This codebase implements the concepts and features discussed in the blog post, including:
+- Multi-tenant organization management
+- User authentication with Logto
+- Document management system
+- Organization level role-based access control
+- Logto management API integration
 
 ## Project Structure
 
 - `frontend/`: React-based frontend application
 - `backend/`: Node.js backend service
-
 
 ## Quick Start
 
@@ -78,11 +90,12 @@ npm run dev
 
 The frontend application will be running at http://localhost:5173.
 
-## Features
+## Learn More
 
-- Multi-tenant organization management
-- User authentication with Logto
-- Document management system
-- Organization level role-based access control
-- Logto management API integration
+For a detailed explanation of the concepts and implementation details, please read the accompanying blog post:
+[Build a multi-tenant SaaS application: A complete guide from design to implementation](https://blog.logto.io/build-multi-tenant-saas-application)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
